@@ -1,4 +1,4 @@
-# 💫 About Me:
+kid# 💫 About Me:
 🔭 I'm currently working in Denovo and on personal projects in my free time<br>🌱 I'm currently learning Next JS and React JS best practices<br>💬 Ask me about frontend and food<br>⚡ Fun fact i ❤️ food
 
 
@@ -15,8 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=apodimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apodimi&icon=1&color=1)](https://visitcount.itsvg.in)
