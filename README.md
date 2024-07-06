@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I'm currently working in Denovo and on personal projects in my free time<br>🌱 I'm currently learning Next JS and React JS best practices<br>💬 Ask me about frontend and food<br>⚡ Fun fact i ❤️ food
+🔭 I'm currently working on personal projects and open source<br>🌱 I'm currently learning Next JS and React JS best practices<br>💬 Ask me about frontend and food<br>⚡ Fun fact i ❤️ food
 
 
 ## 🌐 Socials:
